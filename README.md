@@ -32,46 +32,16 @@ const tanpreet = {
   code: ["JavaScript", "TypeScript"],
 
   technologies: {
-      frontend: [
-          "React",
-          "HTML",
-          "CSS",
-          "Bootstrap",
-          "Tailwind CSS"
-      ],
-
-      backend: [
-          "Node.js",
-          "Express.js"
-      ],
-
-      database: [
-          "MongoDB",
-          "MySQL"
-      ],
-
-      tools: [
-          "Git",
-          "GitHub",
-          "Postman",
-          "Vercel",
-          "Render"
-      ]
+      frontend:["React", "HTML", "CSS", "Bootstrap", "Tailwind CSS"],
+      backend: ["Node.js", "Express.js"],
+      database:["MongoDB", "MySQL"],
+      tools: ["Git", "GitHub", "Postman", "Vercel", "Render"]
   },
 
   currentFocus: "Building scalable MERN applications",
 
-  learning: [
-      "Next.js",
-      "System Design",
-      "Docker"
-  ],
-
-  hobbies: [
-      "Coding",
-      "Problem Solving",
-      "Open Source"
-  ]
+  learning: ["Next.js","System Design","Docker"],
+  hobbies: ["Coding","Problem Solving","Open Source"]
 };
 ```
 
