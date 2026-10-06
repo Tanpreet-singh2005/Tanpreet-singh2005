@@ -1,406 +1,309 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=TANPREET%20SINGH&fontSize=55&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:0F172A,50:172554,100:0E7490" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=TANPREET%20SINGH&fontSize=55&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=58&animation=fadeIn&fontColor=ffffff&color=0:0F2027,50:203A43,100:2C5364" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+systems%2C+not+just+websites.;Full+Stack+Developer+%7C+MERN+Stack;Software+Developer+Intern+%40+Aditya+Birla+Group;9.29+CGPA+%7C+AWS+Certified;Always+building.+Always+learning." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+systems%2C+not+just+websites.;Full+Stack+Developer+%7C+MERN+Stack;9.29+CGPA+%7C+AWS+Certified;3%2B+Production-Grade+Projects;160%2B+DSA+Problems+Solved;Always+learning.+Always+building." />
 
 <br/><br/>
 
 <a href="https://github.com/Tanpreet-singh2005">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/tanpreet-singh-422a04328/">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 &nbsp;
 <a href="mailto:tanpreetsingh7007@gmail.com">
-<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Tanpreet-singh2005&style=flat-square&color=22D3EE&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Tanpreet-singh2005&style=flat-square&color=00D9FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<div align="center">
+## ⚡ `whoami`
 
-### `01` — ABOUT
+```javascript
+const tanpreet = {
+    name: "Tanpreet Singh",
+    role: "Software Engineer | Full Stack Developer",
 
-</div>
+    education: "B.Tech CSE @ VIT Bhopal",
+    cgpa: "9.29",
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+    stack: ["JavaScript", "React", "Node.js", "Express", "MongoDB", "MySQL", "AWS"],
 
-### 👋 Hi, I'm Tanpreet.
+    experience: {
+        company: "Grasim Industries — Aditya Birla Group",
+        role: "Software Developer Intern",
+        duration: "Jun 2026 → Jul 2026"
+    },
 
-I'm a **Computer Science undergraduate at VIT Bhopal** who enjoys turning ideas into real, usable software.
+    building: "Scalable full-stack applications",
+    problemSolving: "160+ DSA problems",
 
-Currently focused on **full-stack development, backend engineering and scalable systems**.
+    certifications: [
+        "AWS Certified Cloud Practitioner",
+        "Google Computer Networking",
+        "NPTEL Machine Learning",
+        "NPTEL Marketing Analytics"
+    ],
 
-I like building products where the engineering actually matters — authentication, APIs, databases, performance and clean user experiences.
-
-</td>
-
-<td width="45%" valign="top">
-
-<pre>
-💻  Full Stack
-⚡  MERN
-☁️  AWS
-🧠  160+ DSA
-
-🎓  B.Tech CSE
-⭐  9.29 CGPA
-
-🏢  Grasim Industries
-    Aditya Birla Group
-</pre>
-
-</td>
-</tr>
-</table>
+    goal: "Build impactful software at scale."
+};
+```
 
 ---
 
-<div align="center">
-
-### `02` — TECH STACK
-
-<img src="https://skillicons.dev/icons?i=java,js,html,css,react,redux,nodejs,express,mongodb,mysql,aws,git,github,postman,vscode,vercel&perline=8" />
-
-</div>
-
----
-
-<div align="center">
-
-### `03` — FEATURED PROJECTS
-
-**Three products. Three different engineering problems.**
-
-</div>
+# 🧠 What I Bring
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="33%" valign="top">
-
-<h3 align="center">📈 Zerodha Trading Simulator</h3>
-
-<p align="center">
-<b>MERN · JWT · MongoDB</b>
-</p>
-
-<p>
-A distributed trading platform with synchronized frontends and real-time portfolio updates.
-</p>
-
-<hr/>
-
-<p><b>⚡ Highlights</b></p>
-
-<p>
-<b>2</b> independent React frontends
-<br/>
-<b>&lt;150ms</b> simulated trade response
-<br/>
-<b>100+</b> active test users
-<br/>
-Cross-domain JWT authentication
-</p>
-
-<p align="center">
-<code>React</code>
-<code>Node.js</code>
-<code>Express</code>
-<code>MongoDB</code>
-<code>JWT</code>
-<code>Vercel</code>
-</p>
+### 🚀 Full Stack Development
+Building production-ready applications using **React, Node.js, Express, MongoDB and REST APIs**.
 
 </td>
+<td width="50%">
 
-<td width="33%" valign="top">
-
-<h3 align="center">🏡 TanRoam</h3>
-
-<p align="center">
-<b>MERN Stack</b>
-</p>
-
-<p>
-A full-stack vacation rental platform inspired by Airbnb, built around property discovery and booking workflows.
-</p>
-
-<hr/>
-
-<p><b>⚡ Highlights</b></p>
-
-<p>
-<b>100+</b> property listings
-<br/>
-<b>3</b> core data models
-<br/>
-<b>30%</b> faster page loading
-<br/>
-<b>40%</b> faster booking completion
-</p>
-
-<p align="center">
-<code>MongoDB</code>
-<code>Express</code>
-<code>React</code>
-<code>Node.js</code>
-</p>
+### ⚙️ Backend Engineering
+Focused on **API performance, authentication, authorization, database optimization and scalable architecture**.
 
 </td>
-
-<td width="33%" valign="top">
-
-<h3 align="center">💼 Job Portal</h3>
-
-<p align="center">
-<b>MERN · RBAC</b>
-</p>
-
-<p>
-A role-based recruitment platform connecting recruiters and applicants through a streamlined hiring workflow.
-</p>
-
-<hr/>
-
-<p><b>⚡ Highlights</b></p>
-
-<p>
-<b>2</b> user roles
-<br/>
-<b>50+</b> active job listings
-<br/>
-<b>8+</b> secured workflows
-<br/>
-Application flow → <b>2 clicks</b>
-</p>
-
-<p align="center">
-<code>MongoDB</code>
-<code>Express</code>
-<code>React</code>
-<code>Node.js</code>
-</p>
-
-</td>
-
 </tr>
-</table>
 
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Tanpreet-singh2005?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `04` — ENGINEERING
-
-</div>
-
-<table align="center">
 <tr>
-
-<td width="33%" align="center">
-
-### ⚡ Performance
-
-**35%**
-
-API response improvement
-
-</td>
-
-<td width="33%" align="center">
+<td width="50%">
 
 ### 🔐 Security
-
-**10+**
-
-secured endpoints
+Experience implementing **JWT authentication, HTTP-only cookies and RBAC** across production-style applications.
 
 </td>
+<td width="50%">
 
-<td width="33%" align="center">
-
-### 🧪 Reliability
-
-**99.2%**
-
-release stability
+### 🧩 Problem Solving
+**160+ DSA problems** solved with a strong foundation in algorithms, data structures and computational thinking.
 
 </td>
-
 </tr>
 </table>
 
-<br/>
+---
+
+# 📊 By The Numbers
 
 <div align="center">
 
-### 🏢 Industry Experience
+| 🎓 CGPA | 💻 Projects | 🧠 DSA | ☁️ Cloud |
+|:---:|:---:|:---:|:---:|
+| **9.29** | **3+** | **160+** | **AWS Certified** |
 
-**Software Developer Intern · Grasim Industries · Aditya Birla Group**
-
-`React` `Node.js` `MongoDB` `JWT` `REST APIs`
+| ⚡ API Optimization | 👥 Users Supported | 🔐 Secured Endpoints | 🐛 Bugs Resolved |
+|:---:|:---:|:---:|:---:|
+| **35% faster** | **100+** | **10+** | **30+** |
 
 </div>
 
 ---
 
+# 🛠️ Tech Arsenal
+
 <div align="center">
 
-### `05` — CURRENTLY BUILDING
+### Languages
 
-<br/>
+<img src="https://skillicons.dev/icons?i=java,js,sql" />
 
-<img src="https://img.shields.io/badge/System%20Design-Exploring-172554?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud%20Architecture-Exploring-172554?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Docker-Exploring-172554?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Advanced%20DSA-Exploring-172554?style=for-the-badge"/>
+### Frontend
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,redux" />
 
-> **Learning the systems behind the interfaces.**
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+### Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,vercel" />
 
 </div>
 
 ---
 
+# 💼 Experience
+
+### 🏢 Software Developer Intern — Grasim Industries
+**Aditya Birla Group · Jun 2026 – Jul 2026**
+
+> Built and optimized internal software used by technical teams.
+
+- ⚡ Built **3+ internal web application modules** using React, Node.js and MongoDB.
+- 🚀 Optimized backend queries and database indexing, reducing **API response time by 35%**.
+- 🔐 Implemented **JWT authentication + RBAC** across **10+ endpoints**.
+- 👨‍💻 Collaborated with a **6-member engineering team** across 4 Agile sprints.
+- 🧪 Resolved **30+ edge-case defects**, contributing to **99.2% release stability**.
+
+---
+
+# 🚀 Featured Projects
+
+## 📈 Zerodha Trading Simulator
+
+**MERN · JWT · MongoDB · Vercel**
+
+> A distributed trading simulation platform with synchronized frontends and real-time portfolio updates.
+
+- 🏗️ Architected **2 independent React frontends** with a centralized Node/Express backend.
+- 🔐 Implemented cross-domain JWT authentication using **HTTP-only cookies**.
+- ⚡ Built a real-time portfolio engine processing simulated trades with **<150ms response latency**.
+- 👥 Tested with **100+ active users**.
+- 🔄 Implemented synchronized ledger updates across multiple frontends.
+
+**`React` `Node.js` `Express` `MongoDB` `JWT` `Vercel`**
+
+---
+
+## 🏡 TanRoam
+
+**MERN Stack**
+
+> A full-stack vacation rental platform inspired by Airbnb.
+
+- 🏠 Managed **3 core data models** — users, properties and bookings.
+- 📊 Supported **100+ property listings**.
+- ⚡ Optimized React state management and improved page-load performance by **30%**.
+- 🔎 Streamlined property discovery and booking workflows.
+- 🚀 Reduced average booking completion time by **40%**.
+
+**`MongoDB` `Express` `React` `Node.js`**
+
+---
+
+## 💼 Job Portal Web Application
+
+**MERN Stack**
+
+> A role-based recruitment platform connecting recruiters and applicants.
+
+- 👥 Designed for **2 distinct user roles** — recruiters and applicants.
+- 📋 Supported **50+ active job listings**.
+- 🔐 Implemented RBAC across **8+ critical workflows**.
+- ⚡ Reduced the posting-to-application process from **5 manual steps to 2 clicks**.
+- 📈 Improved overall platform usability by **25%**.
+
+**`MongoDB` `Express` `React` `Node.js`**
+
+---
+
+# 🧰 Currently Exploring
+
 <div align="center">
 
-### `06` — GITHUB
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanpreet-singh2005&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=22D3EE&text_color=E2E8F0&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanpreet-singh2005&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Tanpreet-singh2005&theme=dark&hide_border=true&background=0F172A&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE"/>
+`System Design` · `Cloud Architecture` · `Scalable Backend Systems` · `Docker` · `Advanced DSA`
 
 </div>
 
 ---
 
+# 🏆 Certifications
+
 <div align="center">
 
-### `07` — CONTRIBUTIONS
+| Certification | Issuer |
+|---|---|
+| ☁️ AWS Certified Cloud Practitioner | Amazon Web Services |
+| 🌐 Bits and Bytes of Computer Networking | Google · Coursera |
+| 🤖 Introduction to Machine Learning | NPTEL · IIT Madras |
+| 📊 Marketing Analytics — Elite + Gold | NPTEL · IIT Kharagpur |
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tanpreet-singh2005&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanpreet-singh2005&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+</div>
 
 <br/>
 
-<h3>🌟 3D Contribution Graph</h3>
+<div align="center">
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=Tanpreet-singh2005&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<img src="https://raw.githubusercontent.com/Tanpreet-singh2005/Tanpreet-singh2005/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
+</div>
 
-<br/><br/>
+---
 
-<table>
-<tr>
+# 🐍 Contribution Graph
 
-<td width="33%" align="center">
+<div align="center">
 
-### 🔥 Consistency
+<img src="https://raw.githubusercontent.com/Tanpreet-singh2005/Tanpreet-singh2005/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
-**Keep Building**
+</div>
 
-Daily progress  
-over perfection.
+---
 
-</td>
+# 🧩 Problem Solving
 
-<td width="33%" align="center">
+<div align="center">
 
-### 💻 Open Source
-
-**Build · Learn · Share**
-
-Projects, experiments  
-and collaborations.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🚀 Growth
-
-**Always Improving**
-
-DSA · Backend · Cloud  
-System Design
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanpreet-singh2005&bg_color=0F172A&color=E2E8F0&line=22D3EE&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
-
-<br/><br/>
-
-<a href="https://github.com/Tanpreet-singh2005">
-<img src="https://img.shields.io/badge/VIEW_GITHUB_ACTIVITY-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-160%2B%20Problems-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </div>
 
+<br/>
+
+> *"The best way to learn software engineering is to build software that actually has to work."*
+
 ---
+
+# 🤝 Let's Build Something Great
 
 <div align="center">
 
-### `08` — LET'S CONNECT
+I'm always interested in:
 
-<br/>
-
-If you're building something interesting,
-
-**I'm always up for a conversation.**
+**Open Source · Full Stack Development · Backend Engineering · System Design · Hackathons · Interesting Problems**
 
 <br/>
 
 <a href="https://www.linkedin.com/in/tanpreet-singh-422a04328/">
-<img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 &nbsp;
 
 <a href="mailto:tanpreetsingh7007@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Drop%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-⭐ **Build. Break. Learn. Repeat.**
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0F172A,50:172554,100:0E7490" width="100%"/>
+⭐ **If you find something interesting in my repositories, consider giving it a star!**
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
