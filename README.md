@@ -102,17 +102,23 @@ Experience implementing **JWT authentication, HTTP-only cookies and RBAC** acros
 
 <div align="center">
 
-```
-|  🎓 CGPA | 💻 Projects |  🧠 DSA  |      ☁️ Cloud     |
-| :------: | :---------: | :------: | :---------------: |
-| **9.29** |    **3+**   | **160+** | **AWS Certified** |
-```
+<table>
+<tr>
+<td align="center" width="25%"><b>🎓 CGPA</b><br/><br/><b>9.29</b></td>
+<td align="center" width="25%"><b>💻 Projects</b><br/><br/><b>3+</b></td>
+<td align="center" width="25%"><b>🧠 DSA</b><br/><br/><b>160+</b></td>
+<td align="center" width="25%"><b>☁️ Cloud</b><br/><br/><b>AWS Certified</b></td>
+</tr>
+</table>
 
-```
-| ⚡ API Optimization | 👥 Users Supported | 🔐 Secured Endpoints | 🐛 Bugs Resolved |
-| :----------------: | :----------------: | :------------------: | :--------------: |
-|   **35% faster**   |      **100+**      |        **10+**       |      **30+**     |
-```
+<table>
+<tr>
+<td align="center" width="25%"><b>⚡ API Optimization</b><br/><br/><b>35% faster</b></td>
+<td align="center" width="25%"><b>👥 Users Supported</b><br/><br/><b>100+</b></td>
+<td align="center" width="25%"><b>🔐 Secured Endpoints</b><br/><br/><b>10+</b></td>
+<td align="center" width="25%"><b>🐛 Bugs Resolved</b><br/><br/><b>30+</b></td>
+</tr>
+</table>
 
 </div>
 
@@ -341,14 +347,28 @@ release stability
 
 <div align="center">
 
-```
-| Certification                            | Issuer                |
-| ---------------------------------------- | --------------------- |
-| ☁️ AWS Certified Cloud Practitioner      | Amazon Web Services   |
-| 🌐 Bits and Bytes of Computer Networking | Google · Coursera     |
-| 🤖 Introduction to Machine Learning      | NPTEL · IIT Madras    |
-| 📊 Marketing Analytics — Elite + Gold    | NPTEL · IIT Kharagpur |
-```
+<table>
+<tr>
+<td align="center"><b>Certification</b></td>
+<td align="center"><b>Issuer</b></td>
+</tr>
+<tr>
+<td>☁️ AWS Certified Cloud Practitioner</td>
+<td>Amazon Web Services</td>
+</tr>
+<tr>
+<td>🌐 Bits and Bytes of Computer Networking</td>
+<td>Google · Coursera</td>
+</tr>
+<tr>
+<td>🤖 Introduction to Machine Learning</td>
+<td>NPTEL · IIT Madras</td>
+</tr>
+<tr>
+<td>📊 Marketing Analytics — Elite + Gold</td>
+<td>NPTEL · IIT Kharagpur</td>
+</tr>
+</table>
 
 </div>
 
