@@ -311,7 +311,62 @@ release stability
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tanpreet-singh2005/Tanpreet-singh2005/output/github-contribution-grid-snake.svg" width="90%"/>
+<h3>🌟 3D Contribution Graph</h3>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tanpreet-singh2005/Tanpreet-singh2005/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%"/>
+
+<br/><br/>
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🔥 Consistency
+
+**Keep Building**
+
+Daily progress  
+over perfection.
+
+</td>
+
+<td width="33%" align="center">
+
+### 💻 Open Source
+
+**Build · Learn · Share**
+
+Projects, experiments  
+and collaborations.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 Growth
+
+**Always Improving**
+
+DSA · Backend · Cloud  
+System Design
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanpreet-singh2005&bg_color=0F172A&color=E2E8F0&line=22D3EE&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+
+<br/><br/>
+
+<a href="https://github.com/Tanpreet-singh2005">
+<img src="https://img.shields.io/badge/VIEW_GITHUB_ACTIVITY-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -348,3 +403,4 @@ If you're building something interesting,
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0F172A,50:172554,100:0E7490" width="100%"/>
 
 </div>
+
